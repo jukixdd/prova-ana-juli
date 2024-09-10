@@ -5,3 +5,7 @@
    p {
       color:aquamarine
    }
+
+   h1 {
+      font-style: unset;
+   }
