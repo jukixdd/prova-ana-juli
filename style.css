@@ -9,3 +9,8 @@
    h1 {
       font-style: italic;
    }
+
+   .bang {
+      color:rgb(14, 36, 231);
+      font-size: medium;
+   }
